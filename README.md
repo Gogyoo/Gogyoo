@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jerome.</h1>
 <h3 align="center">A newly graduated alumni at LeWagon' Data Science course.</h3>
 
-- 🔭 I’m currently working on [LungDetect](https://github.com/Anya9889/pneumonia_diagnosis)
+- 🔭 I’m currently working on [LungDetect](https://github.com/Anya9889/pneumonia_diagnosis).
 
-- 🌱 I’m currently learning about **Times Series, Ensemble learning, Transformers.**
+- 🌱 I’m currently learning about **Times Series, Ensemble learning, Transformers**.
 
 - 👨‍💻 All of my projects so far are available at [https://github.com/Anya9889/pneumonia_diagnosis](https://github.com/Anya9889/pneumonia_diagnosis)
 
-- ⚡ Fun fact **Contrary to most people, I _like_ to untangle knots.**
+- ⚡ Fun fact **Contrary to most people, I _like_ to untangle knots**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
