@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning about **Times Series, Ensemble learning, Transformers**.
 
-- 👨‍💻 All of my projects so far are available at [https://github.com/Anya9889/pneumonia_diagnosis](https://github.com/Anya9889/pneumonia_diagnosis)
+- 👨‍💻 All of my projects so far are available at [https://github.com/Anya9889/pneumonia_diagnosis](https://github.com/Anya9889/pneumonia_diagnosis).
 
-- ⚡ Fun fact **Contrary to most people, I _like_ to untangle knots**.
+- ⚡ Fun fact: **contrary to most people, I _like_ to untangle knots**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
