@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jerome.</h1>
-<h3 align="center">A newly graduated alumni at LeWagon' Data Science course.</h3>
+<h3 align="center">A newly graduated alumni of LeWagon' Data Science course.</h3>
 
 - 🔭 I’m currently working on [LungDetect](https://github.com/Anya9889/pneumonia_diagnosis).
 
