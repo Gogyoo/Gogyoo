@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning about **Times Series, Ensemble learning, Transformers**
 
 - 📚 I’m currently reading:
-    - _Slaughterhouse Five_, by Kurt Vonnegut
+    - _All Quiet on the Western Front_, by Remarque
     - _Atomic Habits_, by James Clear
 
 - 👨‍💻 All of my projects so far are available at [https://github.com/Anya9889/pneumonia_diagnosis](https://github.com/Anya9889/pneumonia_diagnosis)
