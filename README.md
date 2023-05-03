@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [LungDetect](https://github.com/Anya9889/pneumonia_diagnosis).
 
-- 🌱 I’m currently learning about **Times Series, Ensemble learning, Transformers**.
+- 🌱 I’m currently learning about **Times Series and Ensemble learning**.
 
 - 📚 I’m currently reading:
     - _All Quiet on the Western Front_, by Remarque
