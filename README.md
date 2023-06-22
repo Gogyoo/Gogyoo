@@ -6,8 +6,8 @@
 - 🌱 I’m currently learning about **Times Series and Ensemble learning**.
 
 - 📚 I’m currently reading:
-    - _All Quiet on the Western Front_, by Remarque
-    - _Atomic Habits_, by James Clear
+    - _The Lord of The Rings_, by JRR Tolkien
+    - _The Wealth of Nations_, by Adam Smith
 
 - 👨‍💻 All of my projects so far are available at [here](https://github.com/Gogyoo?tab=repositories).
 
