@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jerome.</h1>
-<h3 align="center">A newly graduated alumni of LeWagon' Data Science course.</h3>
+<h3 align="center">A graduated alumni of LeWagon' Data Science course.</h3>
 
 - 🔭 I’m currently working on [LungDetect](https://github.com/Anya9889/pneumonia_diagnosis).
 
@@ -7,7 +7,7 @@
 
 - 📚 I’m currently reading:
     - _The Lord of The Rings_, by JRR Tolkien
-    - _The Wealth of Nations_, by Adam Smith
+    - _MIT Intro to Algorithms_, by Cormen, Leierson, Rivest & Stein
 
 - 👨‍💻 All of my projects so far are available at [here](https://github.com/Gogyoo?tab=repositories).
 
