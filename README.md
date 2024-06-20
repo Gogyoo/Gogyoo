@@ -3,10 +3,10 @@
 
 - 🔭 I’ve worked on [LungDetect](https://github.com/Anya9889/pneumonia_diagnosis).
 
-- 🌱 I’m currently learning about **Times Series and Ensemble learning**.
+- 🌱 I’m currently learning about **SQL and Big Query**.
 
 - 📚 I’m currently reading:
-    - _The Lord of The Rings_, by JRR Tolkien
+    - _The Grapes of Wrath_, by John Steinbeck
     - _MIT Intro to Algorithms_, by Cormen, Leierson, Rivest & Stein
 
 - 👨‍💻 All of my projects so far are available at [here](https://github.com/Gogyoo?tab=repositories).
