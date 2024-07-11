@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jerome.</h1>
-<h3 align="center">A graduated alumni of LeWagon' Data Science course.</h3>
+<h3 align="center">A graduated alumni of LeWagon's Data Science course.</h3>
 
 - 🔭 I’ve worked on [LungDetect](https://github.com/Anya9889/pneumonia_diagnosis).
 
-- 🌱 I’m currently learning about **SQL and Big Query**.
+- 🌱 I’m currently applying myself to [#100DAYSOFDATAENGINEERING](https://docs.google.com/spreadsheets/d/1a5TMdF7Vz-YdvlHXnNHLMeHk7lV-TdRjbPoxMrQ_cSE/edit?gid=0#gid=0).
 
 - 📚 I’m currently reading:
-    - _The Grapes of Wrath_, by John Steinbeck
-    - _MIT Intro to Algorithms_, by Cormen, Leierson, Rivest & Stein
+    - _East of Eden_, by John Steinbeck
+    - _Discret Maths_, by S. Epp
 
 - 👨‍💻 All of my projects so far are available at [here](https://github.com/Gogyoo?tab=repositories).
 
