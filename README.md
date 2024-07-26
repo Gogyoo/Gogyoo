@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jerome.</h1>
 <h3 align="center">A graduated alumni of LeWagon's Data Science course.</h3>
 
-- 🔭 I’ve worked on [LungDetect](https://github.com/Anya9889/pneumonia_diagnosis).
+- 🔭 I’m working on Advanced SQL.
 
 - 🌱 I’m currently applying myself to [#100DAYSOFDATAENGINEERING](https://docs.google.com/spreadsheets/d/1a5TMdF7Vz-YdvlHXnNHLMeHk7lV-TdRjbPoxMrQ_cSE/edit?gid=0#gid=0).
 
