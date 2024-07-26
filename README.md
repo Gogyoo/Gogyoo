@@ -7,7 +7,7 @@
 
 - 📚 I’m currently reading:
     - _East of Eden_, by John Steinbeck
-    - _Discret Maths_, by S. Epp
+    - _The Data Wharehouse Toolkit_, by R.Kimball
 
 - 👨‍💻 All of my projects so far are available at [here](https://github.com/Gogyoo?tab=repositories).
 
