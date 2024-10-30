@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jerome.</h1>
 <h3 align="center">A graduated alumni of LeWagon's Data Science course.</h3>
 
-- 🔎 I’m working on Advanced SQL skills.
+- 🔎 I’m working on a basic ETL project using the Youtube API and GCP.
 
 - 🌱 I’m currently applying myself to [#100DAYSOFDATAENGINEERING](https://docs.google.com/spreadsheets/d/1a5TMdF7Vz-YdvlHXnNHLMeHk7lV-TdRjbPoxMrQ_cSE/edit?gid=0#gid=0).
 
